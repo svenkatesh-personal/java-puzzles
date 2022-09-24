@@ -1,5 +1,5 @@
 /*
-Remove even integers from array
+Remove even integers from given array
 */
 class JP2 {
 
