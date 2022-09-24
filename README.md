@@ -1,1 +1,2 @@
-# java-puzzles
+- JP1 - Big O notation
+- JP2 - Remove even integers from array
